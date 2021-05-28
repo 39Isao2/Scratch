@@ -17,26 +17,28 @@ x座標を進んで行くと鬼に当たる位置に配置します。
 
 
 ## 確認中の変数の作成
-<img src="img/variable.png" width="400px"><br>
+<img src="img/vari.png" width="200px"><br>
 「確認中」という変数を作成して、「だるまさんが〜」の時は0、<br>
 「ころんだ！」で後ろをチェックしてる時は1の値を入れるようにします。<br>
-これで鬼側「今回はFlank」は制作完了です！
+これで鬼側「今回はFlank」は制作完了です！<br>
 
+鬼、完成系
+<img src="img/variable.png" width="400px"><br>
 
 ## プレイヤーの基本的な移動
-<img src="cmove.png" width="400px">
+<img src="img/cmove.png" width="400px">
 プレイヤーのプログラムを組みます。<br>
 １、旗が押されたら初期値に戻す<br>
 ２、ずっともし右キーが押されたら1歩動かす<br>
 の基本操作を作ります。
 
 ## プレイヤーが見つかった時の処理
-<img src="cmove2.png" width="400px">
+<img src="img/cmove2.png" width="400px">
 移動中に、もし発見されたら、「右キーが押してる かつ 確認中変数が1」の時<br>
 「やられた〜」と発言して、初期座標に戻すプログラミングをしてあげます。<br>
 
 ## プレイヤーが勝利した時のプログラム
-<img src="win.png" width="400px"><br>
+<img src="img/win.png" width="400px"><br>
 プレイヤーが移動して、鬼の位置に辿り着いた（衝突）ら勝利です！<br>
 「いえーい、かった！」など勝利宣言して、また初期値に戻しましょう。<br><br>
 
