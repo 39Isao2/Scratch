@@ -6,12 +6,12 @@ patatap: https://patatap.com/<br><br>
 
 ## 円のアニメーション
 <br>
-<img src="img/circle.png" width="700px"><br><br>
+<img src="img/circle.png" width="800px"><br><br>
 
 <br>
 ## 四角のアニメーション
 <br>
-<img src="img/rect.png" width="700px"><br><br>
+<img src="img/rect.png" width="800px"><br><br>
 
 <br>
 ## 自由にアレンジしてみよう
