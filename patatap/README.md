@@ -1,19 +1,19 @@
 # Patatap（パタタップ）
 
 スクラッチでPatatapみたいなものを作ってみましょう。<br>
-patatap: https://patatap.com/
-<img src="img/image.png" width="400px"><br>
+patatap: https://patatap.com/<br><br>
+<img src="img/image.png" width="700px"><br><br>
 
 ## 円のアニメーション
+<br>
+<img src="img/circle.png" width="700px"><br><br>
 
-<img src="img/circle.png" width="400px"><br>
-
-
+<br>
 ## 四角のアニメーション
+<br>
+<img src="img/rect.png" width="700px"><br><br>
 
-<img src="img/rect.png" width="400px"><br>
-
-
+<br>
 ## 自由にアレンジしてみよう
-キーを押した時のアニメーションの数を増やしてみましょうア
+キーを押した時のアニメーションの数を増やしてみましょう<br>
 
